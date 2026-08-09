@@ -1,0 +1,16 @@
+{"timestamp": "2026-08-09T18:09:36.414197+00:00", "source_ip": "57.144.210.145", "destination_ip": "10.5.17.93", "protocol": "TCP", "size": 79, "source_port": 443, "destination_port": 55534, "flags": "PA"}
+{"timestamp": "2026-08-09T18:09:36.415655+00:00", "source_ip": "4.150.223.96", "destination_ip": "10.5.17.93", "protocol": "TCP", "size": 60, "source_port": 443, "destination_port": 54758, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.459656+00:00", "source_ip": "10.5.17.93", "destination_ip": "57.144.210.145", "protocol": "TCP", "size": 54, "source_port": 55534, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.773420+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 172, "source_port": 51904, "destination_port": 443, "flags": "PA"}
+{"timestamp": "2026-08-09T18:09:36.774790+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 1494, "source_port": 51904, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.776151+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 1494, "source_port": 51904, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.777447+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 1494, "source_port": 51904, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.778517+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 1494, "source_port": 51904, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:09:36.779838+00:00", "source_ip": "10.5.17.93", "destination_ip": "104.46.162.230", "protocol": "TCP", "size": 1494, "source_port": 51904, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:12:30.595187+00:00", "source_ip": "10.5.17.55", "destination_ip": "224.0.0.251", "protocol": "UDP", "size": 1223, "source_port": 5353, "destination_port": 5353}
+{"timestamp": "2026-08-09T18:12:30.695220+00:00", "source_ip": "83.229.88.109", "destination_ip": "10.5.17.93", "protocol": "TCP", "size": 60, "source_port": 443, "destination_port": 56034, "flags": "A"}
+{"timestamp": "2026-08-09T18:12:30.900532+00:00", "source_ip": "172.64.148.235", "destination_ip": "10.5.17.93", "protocol": "TCP", "size": 78, "source_port": 443, "destination_port": 57949, "flags": "PA"}
+{"timestamp": "2026-08-09T18:12:30.901735+00:00", "source_ip": "10.5.17.93", "destination_ip": "172.64.148.235", "protocol": "TCP", "size": 82, "source_port": 57949, "destination_port": 443, "flags": "PA"}
+{"timestamp": "2026-08-09T18:12:31.002279+00:00", "source_ip": "172.64.148.235", "destination_ip": "10.5.17.93", "protocol": "TCP", "size": 60, "source_port": 443, "destination_port": 57949, "flags": "A"}
+{"timestamp": "2026-08-09T18:12:31.116675+00:00", "source_ip": "10.5.17.93", "destination_ip": "172.64.155.209", "protocol": "TCP", "size": 1454, "source_port": 54797, "destination_port": 443, "flags": "A"}
+{"timestamp": "2026-08-09T18:12:31.117983+00:00", "source_ip": "10.5.17.93", "destination_ip": "172.64.155.209", "protocol": "TCP", "size": 1454, "source_port": 54797, "destination_port": 443, "flags": "A"}
